@@ -1,0 +1,13 @@
+float *returnVector(int size);
+float mean(float *vector, int size);
+float *columnMeans(float **mat, int row, int col);
+float covariance(float *vec1, float *vec2, int size1, int size2);
+float correlation(float *vec1, float *vec2, int size1, int size2);
+float **covarianceMatrix(float **mat, int row, int col);
+float **matrixMultiplication(float **mat1, float **mat2, int row1, int col1, int row2, int col2);
+float **matrixTranspose(float **mat, int row, int col);
+float **returnMatrix(int row, int col);
+void printMatrix(float **matrix, int row, int col);
+void freeMatrix(float **matrix, int row);
+float *returnSpecificColumn(float **mat, int row, int col, int specificCol);
+void printVector(float *vec, int size);

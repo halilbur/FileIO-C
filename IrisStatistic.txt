@@ -1,0 +1,19 @@
+***************Variance***************
+SepalLength Variance: 0.685693 
+SepalWidht Variance: 0.188004 
+PetalLength Variance: 3.113178 
+PetalWidht Variance: 0.582414 
+***************ColumnMeans***********************
+Column Means: 5.843335 3.054000 3.758667 1.198667 
+***************Correlation************
+SepalLength-SepalWidht: -0.109369 
+SepalLength-PetalLength: 0.871755 
+SepalLength-PetalWidht: 0.817954 
+SepalWidht-PetalLength: -0.420516 
+SepalWidht-PetalWidht: -0.356544 
+PetalLength-PetalWidht: 0.962757 
+***************CovarianceMatrix************
+0.681122 -0.039007 1.265191 0.513458 
+-0.039007 0.186751 -0.319568 -0.117195 
+1.265191 -0.319568 3.092424 1.287745 
+0.513458 -0.117195 1.287745 0.578532 
